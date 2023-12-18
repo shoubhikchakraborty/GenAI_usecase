@@ -1,1 +1,1 @@
-
+Download the model from https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF model name= zephyr-7b-beta.Q4_K_M.gguf. Place the model and config.json in this directory before running the docker file.
